@@ -1,6 +1,6 @@
 {
   "name": "keat-posthig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "source": "src/index.ts",
   "module": "lib/index.js",
